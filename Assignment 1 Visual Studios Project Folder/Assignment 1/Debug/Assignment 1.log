@@ -1,0 +1,17 @@
+﻿Build started 1/15/2014 12:20:51 AM.
+     1>Project "C:\Users\Ro\Desktop\WALP\Assignment 1\Assignment 1\Assignment 1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt service_port.cpp
+         service_port.cpp
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ro\Desktop\WALP\Assignment 1\Debug\Assignment 1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ro\Desktop\WALP\Assignment 1\Debug\Assignment 1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ro\Desktop\WALP\Assignment 1\Debug\Assignment 1.lib" /MACHINE:X86 "Debug\Assignment 1.res"
+         Debug\name_addr.obj
+         Debug\port_service.obj
+         Debug\service_port.obj
+         Debug\Source.obj
+         Assignment 1.vcxproj -> C:\Users\Ro\Desktop\WALP\Assignment 1\Debug\Assignment 1.exe
+     1>Done Building Project "C:\Users\Ro\Desktop\WALP\Assignment 1\Assignment 1\Assignment 1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.81
